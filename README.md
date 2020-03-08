@@ -1,11 +1,14 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Alquiler de pistas de badminton para una comunidad de vecinos.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Alonso Sánchez García
+Enrique Galán Moreno 
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Permitir el alquiler de pistas de badminton para uso exclusivo de la comunidad de vecinos.
+
+
