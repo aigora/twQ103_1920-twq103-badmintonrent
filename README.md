@@ -4,8 +4,8 @@ Alquiler de pistas de badminton para una comunidad de vecinos.
 
 ## Integrantes del equipo
 
-Alonso Sánchez García
-Enrique Galán Moreno 
+Alonso Sánchez García (AlonsoPercu)  
+Enrique Galán Moreno (EnriqueGalanMoreno)
 
 ## Objetivos del trabajo
 
