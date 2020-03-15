@@ -9,6 +9,10 @@ Enrique Galán Moreno (EnriqueGalanMoreno)
 
 ## Objetivos del trabajo
 
-Permitir el alquiler de pistas de badminton para uso exclusivo de la comunidad de vecinos.
++Poder reservar pista de badminton.
++Observar que pistas y a que horas están disponibles
++Cambiar la reserva de una pista ya alquilada por otra.
++Ver que pistas tiene reservado un vecino en concreto.
+
 
 
