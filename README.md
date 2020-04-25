@@ -1,6 +1,6 @@
 # Título del trabajo
 
-Alquiler de pistas de badminton para una comunidad de vecinos.
+Alquiler de pistas de padel para una comunidad de vecinos.
 
 ## Integrantes del equipo
 
