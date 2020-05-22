@@ -1,4 +1,4 @@
-# Community Padel
+# Community Badminton
 
 Alquiler de pistas de padel para una comunidad de vecinos.
 
